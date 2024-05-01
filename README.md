@@ -38,5 +38,5 @@ See PyLabel in action in these [sample Jupyter notebooks](https://github.com/pyl
 Find more docs at https://pylabel.readthedocs.io. 
 
 ## About PyLabel 
-PyLabel was developed by Jeremy Fraenkel, Alex Heaton, and Derek Topper as the Capstope project for the Master of Information and Data Science (MIDS) at the UC Berkeley School of Information. If you have any questions or feedback please [create an issue](https://github.com/pylabel-project/pylabel/issues). Please let us know how we can make PyLabel more useful. 
+PyLabel was developed by Jeremy Fraenkel, Alex Heaton, and Derek Topper as the Capstope project for the Master of Information and Data Science (MIDS) at the UC Berkeley School of Information.  Berkeley instructors Alberto Todeschini and Fred Nugen helped guide the project.  If you have any questions or feedback please [create an issue](https://github.com/pylabel-project/pylabel/issues). Please let us know how we can make PyLabel more useful. 
     
